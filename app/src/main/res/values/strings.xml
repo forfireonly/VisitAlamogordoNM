@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Visit Alamogordo NM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="White_Sands">White Sands \nNational Monument</string>
+    <string name="web_White_sands">https://www.nps.gov/whsa/index.htm</string>
+    <string name="Space_Museum">Space Museum</string>
+    <string name="web_Space_Museum">http://www.nmspacemuseum.org</string>
+    <string name="Zoo">Zoo</string>
+    <string name="web_Zoo">http://ci.alamogordo.nm.us/coa/communityservices/zoo/Alameda_Park_Zoo_Information_and_Fees.htm</string>
+    <string name="History_museum">History Museum</string>
+    <string name="web_History_Museum">https://www.alamogordohistory.com</string>
+    <string name="Pistachio_Land">Pistachio Land</string>
+    <string name="web_Pistachio_Land">https://www.pistachioland.com</string>
+    <string name="Toy_train_Depot">Toy Train Depot</string>
+    <string name="web_Toy_Train_Depot">https://sites.google.com/view/toytraindepotnm/</string>
+    <string name="Flickinger_Center">Flickinger Center \nfor  \nPerfoming Arts</string>
+    <string name="web_Flickinger_Center">http://flickingercenter.com</string>
+    <string name="Oliver_Lee_Park">Oliver Lee \nMemorial State Park</string>
+    <string name="web_Oliver_Lee_Park">http://www.emnrd.state.nm.us/SPD/oliverleestatepark.html</string>
+    <string name="Peppers">Peppers Grill</string>
+    <string name="web_peppers">http://peppersgrillalamogordo.com</string>
+    <string name="Si_Senor">Si Señor</string>
+    <string name="web_si_senor">https://www.facebook.com/AlamoSiSenor</string>
+    <string name="Eddies">Eddie\'s Burritos</string>
+    <string name="web_eddies">https://www.facebook.com/EddiesBurritos</string>
+    <string name="La_Hacienda">La Hacienda</string>
+    <string name="web_la_hacienda">https://www.facebook.com/pages/La-Hacienda-Mexican-Food/187594774602973</string>
+    <string name="Brown_Bag">Brown Bag Deli</string>
+    <string name="web_brown_bag">https://www.facebook.com/bbdalamogordo/</string>
+    <string name="BBQ">Hitch-N-Post BBQ</string>
+    <string name="web_bbq">https://www.facebook.com/HitchnpostBbq/</string>
+    <string name="Bamboo_Garden">Bamboo Garden</string>
+    <string name="web_bamboo_garden">https://www.facebook.com/pages/Bamboo-Garden/164856153541231</string>
+    <string name="Mad_Coffee">Mad Coffee</string>
+    <string name="web_mad_coffee">https://www.facebook.com/madcoffeeinsanelyorganic/</string>
+    <string name="hampton">Hampton Inn Alamogordo</string>
+    <string name="web_hampton"><![CDATA[https://www.reservations.com/hotel/hampton-inn-alamogordo?rmcid=rcc14&msclkid=84232312631710dd15da78096ff8c3cc]]></string>
+    <string name="fairfield">Fairfield Inn \nand \nSuites Alamogordo</string>
+    <string name="web_fairfield">https://www.marriott.com/hotels/travel/almfi-fairfield-inn-and-suites-alamogordo/</string>
+    <string name="holiday">Holiday Inn Express \nHotel and Suites</string>
+    <string name="web_holiday"><![CDATA[https://www.ihg.com/holidayinnexpress/hotels/us/en/alamogordo/almhr/hoteldetail?qAdlt=1&qBrs=6c.hi.ex.rs.ic.cp.in.sb.cw.cv.ul.vn.ki.va.sp.nd.ct&qChld=0&qFRA=1&qGRM=0&qIta=99504440&qPSt=0&qRRSrt=rt&qRef=df&qRms=1&qRpn=1&qRpp=20&qSHp=1&qSmP=3&qSrt=sBR&qWch=0&srb_u=1&icdv=99504440&dp=true&cid=20841&glat=SEAR&setPMCookies=true]]></string>
+    <string name="magnuson">Magnuson Hotel \nAlamogordo Suites</string>
+    <string name="web_magnuson">https://www.reservations.com/hotel/best-western-desert-aire-motor?rmcid=rcc11</string>
+    <string name="suburban">Suburban Extended Stay</string>
+    <string name="web_suburban"><![CDATA[https://www.reservationdesk.com/hotel/612396b/suburban-extended-stay-hotel-alamogordo-nm/?cid=sem::TPRD::BA::Hotels%20-%20S::Suburban%20Extended%20Stay%20Hotel%20%3E%20Alamogordo,%20NM%20%3E%20urlid-612396b%20%3E%20did-612396b::suburban%20extended%20stay%20alamogordo::e&creative=1525927206&device=c&AdPos=%7Badposition%7D&utm_source=bing&utm_medium=cpc&utm_term=suburban%20extended%20stay%20alamogordo&utm_campaign=Hotels%20-%20S&iv_=__iv_m_e_c_1525927206_k_34575265766_w_kwd-34575265766:loc-190_g_709347810_n_o_e__h_58759_ii_58757_p_2_b_be_d_c_vi__&msclkid=a7b73f1ac63619fc03c16401d4bc9988]]></string>
+    <string name="super8">Super 8</string>
+    <string name="web_super8"><![CDATA[https://www.wyndhamhotels.com/super-8/alamogordo-new-mexico/super-8-alamogordo/overview?hotel_id=03177&brand_code=SE]]></string>
+    <string name="sands">White Sands Motel</string>
+    <string name="web_sands">http://www.thewhitesandsmotel.com</string>
+    <string name="days">Days Inn</string>
+    <string name="web_days">https://www.wyndhamhotels.com/days-inn/alamogordo-new-mexico/days-inn-alamogordo/overview</string>
+    <string name="june">June, 2018</string>
+    <string name="web_june">http://business.alamogordo.com/events/calendar/2018-06-01</string>
+    <string name="july">July, 2018</string>
+    <string name="web_july">http://business.alamogordo.com/events/calendar/2018-07-01</string>
+    <string name="august">August, 2018</string>
+    <string name="web_august">http://business.alamogordo.com/events/calendar/2018-08-01</string>
+    <string name="september">September, 2018</string>
+    <string name="web_september">http://business.alamogordo.com/events/calendar/2018-09-01</string>
+    <string name="october">October, 2018</string>
+    <string name="web_october">http://business.alamogordo.com/events/calendar/2018-10-01</string>
+    <string name="november">November,2018</string>
+    <string name="web_november">http://business.alamogordo.com/events/calendar/2018-11-01</string>
+    <string name="december">December, 2018</string>
+    <string name="web_december">http://business.alamogordo.com/events/calendar/2018-12-01</string>
+    <string name="january">January, 2019</string>
+    <string name="web_january">http://business.alamogordo.com/events/calendar/2019-01-01</string>
+    <string name="february">February, 2019</string>
+    <string name="web_february">http://business.alamogordo.com/events/calendar/2019-02-01</string>
+</resources>

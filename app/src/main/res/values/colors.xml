@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorExperience">#F2FFAD</color>
+    <color name="colorDining">#FEF767</color>
+    <color name="colorLodging">#FFED39</color>
+    <color name="colorCalendar">#FFB818</color>
+    <color name="dark_green">#006535</color>
+    <color name="white">#FFFFFF</color>
+</resources>
